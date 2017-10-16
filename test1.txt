@@ -3,4 +3,9 @@ test2a
 test3
 test4a
 test5
+<<<<<<< HEAD
 test6
+=======
+
+test7
+>>>>>>> 691c38f... test7
